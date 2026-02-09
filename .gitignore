@@ -44,3 +44,6 @@ Thumbs.db
 # Generated outputs
 output/
 *.log
+*.xlsx
+erm_graph.json
+filter_metadata.json
